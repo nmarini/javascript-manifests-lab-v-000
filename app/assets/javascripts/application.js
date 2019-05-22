@@ -15,4 +15,4 @@
 //= require turbolinks
 //= require wrong_place_wrong_time
 //= require main
-//= require aler_maker
+//= require alert_maker
